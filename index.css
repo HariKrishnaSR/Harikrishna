@@ -1,0 +1,1670 @@
+.div,
+.malini {
+  position: absolute;
+}
+.div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background: linear-gradient(180deg, #56ccf2, #fff), #56ccf2;
+  width: 2160px;
+  height: 1080px;
+  opacity: 0.5;
+}
+.malini {
+  top: 226px;
+  left: 875px;
+}
+.from-crawling,
+.to-non-stop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.to-non-stop {
+  left: 684px;
+}
+.from-crawling-parent {
+  position: absolute;
+  top: 443px;
+  left: 333px;
+  width: 1376px;
+  height: 97px;
+  font-size: var(--font-size-62xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-sofia-sans);
+}
+.sun-icon {
+  position: absolute;
+  top: 360.21px;
+  left: 614.21px;
+  width: 739.05px;
+  height: 739.05px;
+}
+.bg,
+.icon {
+  position: absolute;
+  width: 2160px;
+}
+.bg {
+  top: -10px;
+  left: -132px;
+  height: 1080px;
+  font-size: var(--font-size-102xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-tangerine);
+}
+.icon {
+  top: 659px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  height: 654px;
+}
+.foreground-icon {
+  position: relative;
+  width: 1878px;
+  height: 776.23px;
+}
+.foreground {
+  margin: 0;
+}
+.foreground-layer {
+  position: absolute;
+  top: 156.49px;
+  left: 594.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 691.73px;
+  height: 300.48px;
+  -webkit-text-stroke: 1px #000;
+  opacity: 0;
+}
+.fg,
+.icon1 {
+  position: absolute;
+}
+.fg {
+  top: 562px;
+  left: -63px;
+  width: 1878px;
+  height: 776.23px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--white);
+  font-family: var(--font-inter);
+}
+.icon1 {
+  top: 35px;
+  left: 424px;
+  width: 1007.4px;
+  height: 219.45px;
+}
+.eaaf242dcfa64dda529217d8ed25de-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 449px;
+  height: 480.17px;
+  object-fit: cover;
+}
+.name-meaning {
+  position: absolute;
+  top: 49px;
+  left: 76px;
+  font-weight: 600;
+  display: inline-block;
+  width: 213px;
+}
+.eaaf242dcfa64dda529217d8ed25de-parent {
+  position: absolute;
+  height: 46.33%;
+  width: 47.66%;
+  top: 0;
+  right: 52.34%;
+  bottom: 53.67%;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.eaaf242dcfa64dda529217d8ed25de {
+  position: absolute;
+  top: -25px;
+  left: -6px;
+  filter: blur(9px);
+  width: 449px;
+  height: 480.17px;
+}
+.remys-at-home-newborn-photos {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 538px;
+  height: 327px;
+  object-fit: cover;
+}
+.baby-care {
+  position: absolute;
+  top: 103px;
+  left: 104px;
+  font-weight: 600;
+}
+.eaaf242dcfa64dda529217d8ed25de-group {
+  position: absolute;
+  height: 46.33%;
+  width: 47.66%;
+  top: 53.67%;
+  right: 0;
+  bottom: 0;
+  left: 52.34%;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.eaaf242dcfa64dda529217d8ed25de1 {
+  position: absolute;
+  top: -36px;
+  left: -6px;
+  filter: blur(9px);
+  width: 449px;
+  height: 480.17px;
+}
+.remys-at-home-newborn-photos1 {
+  position: absolute;
+  top: -36px;
+  left: -58px;
+  filter: blur(7px);
+  width: 538px;
+  height: 327px;
+}
+.remys-studio-newborn-session,
+.remys-studio-newborn-session1 {
+  position: absolute;
+  top: 9px;
+  left: 311px;
+  width: 142px;
+  height: 90px;
+  object-fit: cover;
+}
+.remys-studio-newborn-session1 {
+  left: 3px;
+  width: 122px;
+  height: 267px;
+}
+.remys-at-home-newborn-photos2,
+.remys-at-home-newborn-photos3 {
+  position: absolute;
+  top: 88px;
+  left: 311px;
+  width: 125px;
+  height: 174px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos3 {
+  top: 127px;
+  left: 118px;
+  width: 104px;
+  height: 134px;
+}
+.remys-at-home-newborn-photos4,
+.remys-at-home-newborn-photos5 {
+  position: absolute;
+  top: 40px;
+  left: 215px;
+  width: 103px;
+  height: 145px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos5 {
+  left: 118px;
+  width: 48px;
+  height: 93px;
+}
+.remys-at-home-newborn-photos6,
+.remys-studio-newborn-session2 {
+  position: absolute;
+  top: 178px;
+  left: 215px;
+  width: 103px;
+  height: 83px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos6 {
+  top: 40px;
+  left: 159px;
+  width: 63px;
+  height: 93px;
+}
+.remys-at-home-newborn-photos7,
+.remys-studio-newborn-session3 {
+  position: absolute;
+  top: 9px;
+  left: 216px;
+  width: 102px;
+  height: 42px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos7 {
+  left: 118px;
+  width: 105px;
+}
+.frame-child,
+.remys-studio-newborn-session-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 458px;
+  height: 267px;
+}
+.frame-child {
+  left: -3px;
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 453px;
+  height: 274px;
+}
+.gallery {
+  position: absolute;
+  top: 86px;
+  left: 112px;
+  font-weight: 600;
+}
+.group-parent {
+  position: absolute;
+  top: -9px;
+  left: -3px;
+  background-color: rgba(0, 0, 0, 0.44);
+  width: 390px;
+  height: 236px;
+  overflow: hidden;
+}
+.eaaf242dcfa64dda529217d8ed25de-container {
+  position: absolute;
+  height: 46.33%;
+  width: 47.66%;
+  top: 0;
+  right: 0;
+  bottom: 53.67%;
+  left: 52.34%;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.baby-care1 {
+  position: absolute;
+  top: 102px;
+  left: 104px;
+  font-weight: 600;
+  -webkit-text-stroke: 3px #02121c;
+}
+.remys-at-home-newborn-photos8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 520px;
+  height: 433px;
+  object-fit: cover;
+}
+.contact {
+  position: absolute;
+  top: 103px;
+  left: 122px;
+  font-weight: 600;
+}
+.frame-div {
+  position: absolute;
+  height: 46.33%;
+  width: 47.66%;
+  top: 53.67%;
+  right: 52.34%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.frame-parent {
+  position: absolute;
+  top: 650px;
+  left: 505px;
+  width: 768px;
+  height: 490px;
+}
+.background-layer {
+  position: absolute;
+  top: 1024.41px;
+  left: 666.01px;
+  font-weight: 500;
+  display: inline-block;
+  width: 828px;
+  height: 964.16px;
+  -webkit-text-stroke: 1px #000;
+  opacity: 0;
+}
+.bg-wrapper,
+.bg1,
+.div1 {
+  position: absolute;
+  top: 0;
+  width: 2160px;
+  height: 3013px;
+}
+.div1 {
+  left: 0;
+  border-radius: var(--br-9xs);
+  background: linear-gradient(180deg, #56ccf2, #fff), #56ccf2;
+  opacity: 0.5;
+}
+.bg-wrapper,
+.bg1 {
+  left: -97px;
+}
+.bg-wrapper {
+  top: 1364px;
+  left: 18px;
+  width: 1710px;
+  height: 2955px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--white);
+  font-family: var(--font-inter);
+}
+.icon2 {
+  position: absolute;
+  top: 3257px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  width: 2527px;
+  height: 765px;
+}
+.foreground-icon1 {
+  position: relative;
+  width: 2197.08px;
+  height: 908.11px;
+}
+.foreground-layer1 {
+  position: absolute;
+  top: 183.07px;
+  left: 695.74px;
+  font-weight: 500;
+  display: inline-block;
+  width: 809.26px;
+  height: 351.53px;
+  -webkit-text-stroke: 1px #000;
+  opacity: 0;
+}
+.fg1 {
+  position: absolute;
+  top: 3411.17px;
+  left: -152.26px;
+  width: 2197.08px;
+  height: 908.11px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--white);
+  font-family: var(--font-inter);
+}
+.group-child {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 590px;
+  height: 590px;
+  object-fit: cover;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-lightslategray-200);
+  width: 187px;
+  height: 70px;
+}
+.div2,
+.month {
+  position: absolute;
+  top: 14px;
+  left: 28px;
+  font-weight: 600;
+}
+.month {
+  left: 57px;
+}
+.group-frame,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 187px;
+  height: 70px;
+}
+.group-frame {
+  top: 250px;
+  left: 191px;
+}
+.group-inner,
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 570px;
+  height: 570px;
+}
+.group-inner {
+  top: -10px;
+  left: -10px;
+  width: 580px;
+  height: 590px;
+  object-fit: cover;
+}
+.group-wrapper1,
+.group-wrapper3 {
+  position: absolute;
+  top: 0;
+  left: 1140px;
+  width: 570px;
+  height: 570px;
+}
+.group-wrapper3 {
+  top: 250px;
+  left: 192px;
+  width: 187px;
+  height: 70px;
+}
+.group-child2,
+.group-wrapper2 {
+  position: absolute;
+  top: 0;
+  left: 570px;
+  width: 570px;
+  height: 570px;
+}
+.group-child2 {
+  top: -12px;
+  left: -12px;
+  width: 582px;
+  height: 594px;
+  object-fit: cover;
+}
+.group-parent1,
+.group-wrapper4,
+.group-wrapper7 {
+  position: absolute;
+  top: 570px;
+  left: 1140px;
+  width: 570px;
+  height: 570px;
+}
+.group-parent1,
+.group-wrapper7 {
+  left: 0;
+}
+.group-wrapper7 {
+  left: 570px;
+}
+.frame-group,
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1710px;
+  height: 1140px;
+}
+.frame-item {
+  top: -12px;
+  left: -12px;
+  width: 594px;
+  height: 594px;
+  object-fit: cover;
+}
+.month9 {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  font-weight: 600;
+}
+.parent {
+  top: 14px;
+  left: 17px;
+  width: 152px;
+  height: 43px;
+}
+.group,
+.parent,
+.year {
+  position: absolute;
+}
+.year {
+  top: 0;
+  left: 29px;
+  font-weight: 600;
+}
+.group {
+  top: 14px;
+  left: 45px;
+  width: 97px;
+  height: 43px;
+}
+.component-2,
+.frame-container,
+.group-container {
+  position: absolute;
+  top: 1140px;
+  left: 0;
+  width: 1710px;
+  height: 1140px;
+}
+.component-2,
+.group-container {
+  top: 0;
+  height: 2280px;
+}
+.component-2 {
+  top: 1912px;
+  left: 18px;
+  font-size: var(--font-size-17xl);
+  color: var(--white);
+}
+.icon3 {
+  position: absolute;
+  top: 1338px;
+  left: 0;
+  width: 1007.4px;
+  height: 219.45px;
+}
+.icon4,
+.sun-icon1 {
+  position: absolute;
+  top: 1618px;
+  left: 354px;
+  width: 1117.4px;
+  height: 344.4px;
+}
+.sun-icon1 {
+  top: 1406.35px;
+  left: 596.35px;
+  width: 633.48px;
+  height: 633.49px;
+}
+.gallery1 {
+  position: absolute;
+  top: 1695px;
+  left: 789px;
+  font-size: var(--font-size-62xl);
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.remys-at-home-newborn-photos9 {
+  position: absolute;
+  top: -44px;
+  left: -11px;
+  width: 1737px;
+  height: 4562px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos-wrapper {
+  position: absolute;
+  top: 4309px;
+  left: 11px;
+  width: 1737px;
+  height: 4474px;
+}
+.httpslottiefilescom24074-icon {
+  position: relative;
+  width: 374px;
+  height: 374px;
+  object-fit: cover;
+}
+.darcia-narvaez1 {
+  text-decoration: underline;
+}
+.darcia-narvaez {
+  color: inherit;
+}
+.if-you-have-container {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 1301px;
+  height: 272px;
+}
+.why-do-babies-cry-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1301px;
+  height: 373px;
+}
+.unsplashrpvfp58kmri-icon,
+.unsplashrpvfp58kmri-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080.29px;
+  object-fit: cover;
+}
+.unsplashrpvfp58kmri-icon1 {
+  width: 632px;
+  height: 1051px;
+}
+.pain-is-a-container {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 552px;
+}
+.pain-is-a-difficult-one-alth-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 18, 28, 0.93),
+    rgba(2, 18, 28, 0.67)
+  );
+  width: 593px;
+  height: 645px;
+  overflow: hidden;
+}
+.calling-cry-inner {
+  position: absolute;
+  top: 241px;
+  left: 19px;
+  width: 593px;
+  height: 645px;
+}
+.calling-cry1 {
+  position: absolute;
+  top: 14px;
+  left: 71px;
+  font-weight: 600;
+}
+.calling-cry-wrapper {
+  position: absolute;
+  top: 69px;
+  left: 119px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+  width: 394px;
+  height: 93px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-35xl);
+}
+.calling-cry {
+  position: absolute;
+  top: 600px;
+  left: 712px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  box-shadow: -45px -107px 32px transparent,
+    -29px -68px 30px rgba(0, 0, 0, 0.01), -16px -38px 25px rgba(0, 0, 0, 0.05),
+    -7px -17px 19px rgba(0, 0, 0, 0.09), -2px -4px 10px rgba(0, 0, 0, 0.1),
+    0 0 0 rgba(0, 0, 0, 0.1);
+  width: 632px;
+  height: 230px;
+  overflow: hidden;
+}
+.unsplashrpvfp58kmri-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 902px;
+  height: 741px;
+  object-fit: cover;
+}
+.newborns-and-young-container {
+  position: absolute;
+  top: 36px;
+  left: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 552px;
+}
+.newborns-and-young-babies-may-wrapper {
+  position: absolute;
+  top: 176px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 18, 28, 0.93),
+    rgba(2, 18, 28, 0.67)
+  );
+  width: 593px;
+  height: 760px;
+  overflow: hidden;
+}
+.sleepy-cry1 {
+  position: absolute;
+  top: 14px;
+  left: 72px;
+  font-weight: 600;
+}
+.sleepy-cry-wrapper {
+  position: absolute;
+  top: 0;
+  left: 99px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+  width: 394px;
+  height: 93px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-35xl);
+  color: var(--white);
+}
+.frame-parent1,
+.sleepy-cry {
+  position: absolute;
+  top: 67px;
+  left: 19px;
+  width: 593px;
+  height: 936px;
+}
+.sleepy-cry {
+  top: 600px;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 632px;
+  height: 230px;
+  overflow: hidden;
+  color: inherit;
+}
+.unsplashrpvfp58kmri-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1333px;
+  height: 525px;
+  object-fit: cover;
+}
+.this-type-of-cry-relates-to-br-wrapper {
+  position: absolute;
+  top: 242px;
+  left: 20px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 18, 28, 0.93),
+    rgba(2, 18, 28, 0.67)
+  );
+  width: 593px;
+  height: 760px;
+  overflow: hidden;
+}
+.hungry-cry1 {
+  position: absolute;
+  top: 15px;
+  left: 64px;
+  font-weight: 600;
+}
+.hungry-cry,
+.hungry-cry-wrapper {
+  position: absolute;
+  overflow: hidden;
+}
+.hungry-cry-wrapper {
+  top: 68px;
+  left: 119px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+  width: 394px;
+  height: 94px;
+  text-align: left;
+  font-size: var(--font-size-35xl);
+  color: var(--white);
+}
+.hungry-cry {
+  top: 300px;
+  left: 712px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  box-shadow: -62px -162px 49px transparent,
+    -39px -104px 44px rgba(0, 0, 0, 0.01), -22px -58px 37px rgba(0, 0, 0, 0.05),
+    -10px -26px 28px rgba(0, 0, 0, 0.09), -2px -6px 15px rgba(0, 0, 0, 0.1),
+    0 0 0 rgba(0, 0, 0, 0.1);
+  width: 632px;
+  height: 230px;
+  color: inherit;
+}
+.unsplashrpvfp58kmri-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1295px;
+  height: 316px;
+  object-fit: cover;
+}
+.pain-cry1 {
+  position: absolute;
+  top: 14px;
+  left: 100px;
+  font-weight: 600;
+}
+.pain-cry {
+  position: absolute;
+  top: 300px;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  box-shadow: 0 435px 122px transparent, 0 278px 111px rgba(0, 0, 0, 0.01),
+    0 156px 94px rgba(0, 0, 0, 0.05), 0 70px 70px rgba(0, 0, 0, 0.09),
+    0 17px 38px rgba(0, 0, 0, 0.1), 0 0 0 rgba(0, 0, 0, 0.1);
+  width: 632px;
+  height: 230px;
+  overflow: hidden;
+}
+.remys-at-home-newborn-photos10 {
+  position: absolute;
+  top: -1180px;
+  left: -366px;
+  width: 1633px;
+  height: 2449px;
+}
+.physiological-cry-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 693px;
+  height: 805px;
+  object-fit: cover;
+}
+.physiological-cry1 {
+  position: absolute;
+  top: 14px;
+  left: 40px;
+  font-weight: 600;
+}
+.physiological-cry-wrapper {
+  position: absolute;
+  top: 69px;
+  left: 77px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+  width: 478px;
+  height: 93px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-35xl);
+}
+.physiological-cry {
+  position: absolute;
+  top: 0;
+  left: 712px;
+  border-radius: var(--br-lg);
+  background: linear-gradient(rgba(0, 0, 0, 0.44), rgba(0, 0, 0, 0.44)), #2b3a43;
+  box-shadow: -181px -327px 105px transparent,
+    -116px -209px 96px rgba(0, 0, 0, 0.01),
+    -65px -118px 81px rgba(0, 0, 0, 0.05), -29px -52px 60px rgba(0, 0, 0, 0.09),
+    -7px -13px 33px rgba(0, 0, 0, 0.1), 0 0 0 rgba(0, 0, 0, 0.1);
+  width: 632px;
+  height: 230px;
+  overflow: hidden;
+}
+.unsplashrpvfp58kmri-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 632px;
+  height: 547px;
+  object-fit: cover;
+}
+.discomfort-cry1 {
+  position: absolute;
+  top: 14px;
+  left: 54px;
+  font-weight: 600;
+}
+.discomfort-cry {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  box-shadow: -74px -224px 66px transparent,
+    -47px -143px 60px rgba(0, 0, 0, 0.01), -27px -81px 51px rgba(0, 0, 0, 0.05),
+    -12px -36px 38px rgba(0, 0, 0, 0.09), -3px -9px 21px rgba(0, 0, 0, 0.1),
+    0 0 0 rgba(0, 0, 0, 0.1);
+  width: 632px;
+  height: 230px;
+  overflow: hidden;
+}
+.calling-cry-parent {
+  position: absolute;
+  top: 469px;
+  left: 57px;
+  width: 1344px;
+  height: 830px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--white);
+}
+.group-parent4 {
+  position: relative;
+  width: 1401px;
+  height: 1299px;
+}
+.remys-at-home-newborn-photos11,
+.remys-at-home-newborn-photos12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 668px;
+  height: 603px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos12 {
+  width: 873px;
+  height: 548px;
+}
+.neh-hunger-container {
+  position: absolute;
+  top: 34px;
+  left: 52px;
+  font-weight: 500;
+  display: inline-block;
+  width: 1184px;
+}
+.neh-hunger-a-newborn-baby-u-wrapper {
+  position: absolute;
+  top: 231px;
+  left: -245px;
+  border-radius: var(--br-9xl);
+  background: linear-gradient(180deg, #02121c, rgba(2, 18, 28, 0.3));
+  width: 1288px;
+  height: 756px;
+  overflow: hidden;
+}
+.owh-sleep {
+  position: absolute;
+  top: 14px;
+  left: 55px;
+  font-weight: 600;
+}
+.component-17,
+.owh-sleep-wrapper {
+  position: absolute;
+  border-radius: var(--br-xs);
+  overflow: hidden;
+}
+.owh-sleep-wrapper {
+  top: 69px;
+  left: 91px;
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+  width: 426px;
+  height: 93px;
+  font-size: var(--font-size-35xl);
+  color: var(--color-gray-100);
+}
+.component-17 {
+  top: 686px;
+  left: 345px;
+  width: 609px;
+  height: 231px;
+  font-size: var(--font-size-17xl);
+  color: inherit;
+}
+.hep-discomfort {
+  position: absolute;
+  top: 14px;
+  left: 9px;
+  font-weight: 600;
+}
+.component-15-inner,
+.hep-discomfort-wrapper {
+  position: absolute;
+  border-radius: var(--br-xs);
+  width: 459px;
+  height: 93px;
+  overflow: hidden;
+}
+.hep-discomfort-wrapper {
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+}
+.component-15-inner {
+  top: 69px;
+  left: 58px;
+  background: linear-gradient(
+    180deg,
+    rgba(2, 18, 28, 0.93),
+    rgba(2, 18, 28, 0.37)
+  );
+}
+.neh-hunger-a-newborn-baby-u-container {
+  position: absolute;
+  top: 231px;
+  left: -245px;
+  border-radius: var(--br-9xl);
+  background: linear-gradient(180deg, #02121c, rgba(2, 18, 28, 0.3));
+  width: 1288px;
+  height: 756px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+  color: inherit;
+}
+.component-15 {
+  position: absolute;
+  top: 343px;
+  left: 691px;
+  border-radius: var(--br-xs);
+  width: 609px;
+  height: 231px;
+  overflow: hidden;
+}
+.remys-at-home-newborn-photos14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 988px;
+  height: 1121px;
+  object-fit: cover;
+}
+.eh-burb {
+  position: absolute;
+  top: 14px;
+  left: 87px;
+  font-weight: 600;
+}
+.eh-burb-wrapper {
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+  width: 426px;
+  height: 93px;
+}
+.component-11,
+.component-11-inner,
+.eh-burb-wrapper {
+  position: absolute;
+  border-radius: var(--br-xs);
+  overflow: hidden;
+}
+.component-11-inner {
+  top: 69px;
+  left: 91px;
+  background: linear-gradient(
+    180deg,
+    rgba(2, 18, 28, 0.93),
+    rgba(2, 18, 28, 0.37)
+  );
+  width: 426px;
+  height: 93px;
+}
+.component-11 {
+  top: 0;
+  left: 691px;
+  width: 609px;
+  height: 231px;
+}
+.remys-at-home-newborn-photos16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 974px;
+  height: 1010px;
+  object-fit: cover;
+}
+.eairh-sore-tummy {
+  position: absolute;
+  top: 14px;
+  left: 16px;
+  font-weight: 600;
+}
+.eairh-sore-tummy-wrapper {
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 244, 0.3),
+    rgba(229, 238, 243, 0.3)
+  );
+  width: 520px;
+  height: 93px;
+}
+.component-13,
+.component-13-inner,
+.eairh-sore-tummy-wrapper {
+  position: absolute;
+  border-radius: var(--br-xs);
+  overflow: hidden;
+}
+.component-13-inner {
+  top: 69px;
+  left: 51px;
+  background: linear-gradient(
+    180deg,
+    rgba(2, 18, 28, 0.93),
+    rgba(2, 18, 28, 0.37)
+  );
+  width: 520px;
+  height: 93px;
+}
+.component-13 {
+  top: 343px;
+  left: 0;
+  width: 609px;
+  height: 231px;
+}
+.remys-at-home-newborn-photos17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1320px;
+  height: 1394px;
+  object-fit: cover;
+}
+.neh-hungary {
+  position: absolute;
+  top: 14px;
+  left: 25px;
+  font-weight: 600;
+}
+.component-9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 609px;
+  height: 231px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+  color: inherit;
+}
+.component-17-parent {
+  position: absolute;
+  top: 455px;
+  left: 63px;
+  width: 1300px;
+  height: 917px;
+}
+.why-do-babies-container {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 1457px;
+}
+.baby-sounds-parent {
+  position: relative;
+  width: 1457px;
+  height: 1372px;
+}
+.httpslottiefilescom24074-parent {
+  position: absolute;
+  top: 4615px;
+  left: 114px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 201px;
+}
+.remys-at-home-newborn-photos18 {
+  position: absolute;
+  top: -32px;
+  left: -11px;
+  width: 2343px;
+  height: 3137px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos-container {
+  position: absolute;
+  top: 8783px;
+  left: 11px;
+  width: 1737px;
+  height: 3073px;
+}
+.component-25-icon {
+  position: absolute;
+  top: 108px;
+  left: 0;
+  width: 435px;
+  height: 437px;
+  overflow: hidden;
+}
+.component-22,
+.malini1 {
+  position: absolute;
+  top: 0;
+  width: 309px;
+}
+.malini1 {
+  left: 0;
+  display: inline-block;
+}
+.component-22 {
+  left: 63px;
+  height: 121px;
+}
+.component-25-parent {
+  position: absolute;
+  top: -69px;
+  left: 50px;
+  width: 435px;
+  height: 545px;
+}
+.macbook-pro-16-44-inner {
+  position: absolute;
+  top: 9305px;
+  left: 644px;
+  background: linear-gradient(
+    180deg,
+    rgba(237, 244, 249, 0.32),
+    rgba(237, 244, 249, 0.36)
+  );
+  width: 536px;
+  height: 515px;
+  font-size: var(--font-size-102xl);
+  font-family: var(--font-tangerine);
+}
+.remy-gets-festive-the-best-s {
+  position: absolute;
+  top: 9082px;
+  left: 1545px;
+  width: 289px;
+  height: 294px;
+  object-fit: cover;
+}
+.makha {
+  position: absolute;
+  top: 101px;
+  left: 72px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+}
+.star-name-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 246px;
+  height: 144px;
+}
+.leo {
+  position: absolute;
+  top: 101px;
+  left: 102px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+}
+.group-parent5,
+.zodic-sign-parent {
+  position: absolute;
+  top: 0;
+  left: 366px;
+  width: 260px;
+  height: 144px;
+}
+.group-parent5 {
+  top: 9940px;
+  left: 598px;
+  width: 626px;
+}
+.name-malinimeaning-fragrant {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 1019px;
+}
+.meaning-of-the {
+  position: absolute;
+  top: 0;
+  left: 260px;
+  font-size: var(--font-size-35xl);
+  font-weight: 600;
+  text-align: left;
+}
+.name-malinimeaning-fragrant-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1019px;
+  height: 230px;
+}
+.component-27-child,
+.component-27-item {
+  position: absolute;
+  top: 94px;
+  left: 403px;
+  width: 403px;
+  height: 125px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.component-27-item {
+  left: 1019px;
+  width: 809px;
+}
+.other-meanings {
+  position: absolute;
+  top: 0;
+  left: 323px;
+  font-weight: 600;
+}
+.malani-is-a,
+.the-name-malani {
+  position: absolute;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 1019px;
+}
+.the-name-malani {
+  top: 0;
+  height: 94px;
+}
+.malani-is-a {
+  top: 86px;
+}
+.the-name-malani-is-primarily-a-parent {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  width: 1019px;
+  height: 258px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.component-29,
+.other-meanings-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1019px;
+  height: 359px;
+}
+.component-29 {
+  top: 290px;
+  text-align: left;
+  font-size: var(--font-size-35xl);
+}
+.component-27-parent,
+.macbook-pro-16-44-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1019px;
+  height: 649px;
+}
+.macbook-pro-16-44-child {
+  top: 10180px;
+  left: 402px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.remy-gets-festive-the-best-s1,
+.remy-gets-festive-the-best-s2 {
+  position: absolute;
+  top: 10949px;
+  left: 673px;
+  width: 507px;
+  height: 509px;
+  object-fit: cover;
+}
+.remy-gets-festive-the-best-s2 {
+  top: 9757px;
+  left: 0;
+  width: 311px;
+  height: 312px;
+}
+.httpslottiefilescom24074-icon1,
+.remys-at-home-newborn-photos19 {
+  position: absolute;
+  top: 9640px;
+  left: 619px;
+  width: 182px;
+  height: 180px;
+  object-fit: cover;
+}
+.remys-at-home-newborn-photos19 {
+  top: -44px;
+  left: 0;
+  width: 1728px;
+  height: 2165px;
+}
+.logosinstagram-icon,
+.remys-at-home-newborn-photos-frame {
+  position: absolute;
+  top: 11856px;
+  left: 0;
+  width: 1728px;
+  height: 2121px;
+}
+.logosinstagram-icon {
+  height: 100%;
+  width: 30.8%;
+  top: 0;
+  right: 69.2%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.malini-07-parent,
+.skill-iconsinstagram {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 448px;
+  height: 138px;
+}
+.skill-iconsinstagram {
+  width: 138px;
+  overflow: hidden;
+}
+.component-171,
+.malini-07-group {
+  position: absolute;
+  width: 448px;
+  height: 138px;
+}
+.malini-07-group {
+  top: 1px;
+  left: 504px;
+  color: var(--color-cornflowerblue);
+}
+.component-171 {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.malini07 {
+  position: absolute;
+  top: 36px;
+  left: 218px;
+  font-weight: 600;
+}
+.lafacebook-square-icon {
+  position: absolute;
+  height: 100%;
+  width: 33.01%;
+  top: 0;
+  right: 66.99%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.malini07-parent {
+  top: 0;
+  left: 0;
+}
+.component-18,
+.malini07-group,
+.malini07-parent {
+  position: absolute;
+  width: 418px;
+  height: 138px;
+}
+.malini07-group {
+  top: 0;
+  left: 449px;
+  color: var(--color-cornflowerblue);
+}
+.component-18 {
+  top: 212px;
+  left: 0;
+  overflow: hidden;
+}
+.malini-premo {
+  position: absolute;
+  top: 37px;
+  left: 218px;
+  font-weight: 600;
+}
+.iconoirpinterest {
+  position: absolute;
+  height: 100%;
+  width: 18.75%;
+  top: 0;
+  right: 81.25%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.malini-premo-fashion-group,
+.malini-premo-fashion-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 736px;
+  height: 138px;
+}
+.malini-premo-fashion-group {
+  left: 756px;
+  color: var(--color-cornflowerblue);
+}
+.component-19,
+.icbaseline-whatsapp-icon {
+  position: absolute;
+  top: 424px;
+  left: 0;
+  width: 736px;
+  height: 138px;
+  overflow: hidden;
+}
+.icbaseline-whatsapp-icon {
+  height: 100%;
+  width: 22.81%;
+  top: 0;
+  right: 77.19%;
+  bottom: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.parent1 {
+  top: 0;
+  left: 0;
+}
+.component-20,
+.parent1,
+.parent2 {
+  position: absolute;
+  width: 605px;
+  height: 138px;
+}
+.parent2 {
+  top: 0;
+  left: 639px;
+  color: var(--color-cornflowerblue);
+}
+.component-20 {
+  top: 636px;
+  left: 0;
+  overflow: hidden;
+}
+.component-17-group {
+  position: absolute;
+  top: 217px;
+  left: 0;
+  width: 736px;
+  height: 774px;
+}
+.component-21,
+.contact-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 286px;
+  height: 97px;
+}
+.component-21 {
+  left: 225px;
+  font-size: var(--font-size-62xl);
+}
+.group-parent6 {
+  position: absolute;
+  top: 12495px;
+  left: 567px;
+  width: 736px;
+  height: 991px;
+  color: var(--color-lightslategray-100);
+}
+.httpslottiefilescom97963-icon,
+.httpslottiefilescom97963-icon1 {
+  position: absolute;
+  top: 12274px;
+  left: 1382px;
+  width: 318px;
+  height: 318px;
+  object-fit: cover;
+}
+.httpslottiefilescom97963-icon1 {
+  top: 13475px;
+  left: 128px;
+}
+.macbook-pro-16-44 {
+  position: relative;
+  background-color: #8ccbe0;
+  width: 100%;
+  height: 13977px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-35xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-sofia-sans);
+}
